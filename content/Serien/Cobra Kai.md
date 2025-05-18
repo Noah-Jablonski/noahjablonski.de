@@ -6,7 +6,7 @@
 3. Staffel 10 Episoden:
 4. Staffel 10 Episoden:
 5. Staffel 10 Episoden:
-6. Staffel 15 Episoden: [[8 Punkte|8,4/10]] Punkte
+6. Staffel 15 Episoden: [[8 Punkte|8,4]]/10 Punkte
 
 
 [[Serien]]

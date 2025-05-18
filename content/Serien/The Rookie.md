@@ -1,14 +1,14 @@
 
 [[Komödie]], [[Krimi]], [[Drama]], [[Action]] | Erscheinungsjahr: [[2010er|2018]] | Geschaut: 2022-2025 | Schauspieler: [[Nathan Fillion]], [[Melissa O'Neil]], [[Alyssa Diaz]], [[Eric Winter]]
 
-1. Staffel 20 Episoden:
-2. Staffel 20 Episoden:
-3. Staffel 14 Episoden:
-4. Staffel 22 Episoden:
-5. Staffel 22 Episoden:
-6. Staffel 10 Episoden: [[7 Punkte|7,8/10]] Punkte
-7. Staffel 18 Episoden:
-8. Staffel 18 Episoden:
+1. Staffel 20 Episoden: [[7 Punkte|7,5]]/10 Punkte
+2. Staffel 20 Episoden: [[7 Punkte|7,8]]/10 Punkte
+3. Staffel 14 Episoden: [[8 Punkte|8,2]]/10 Punkte
+4. Staffel 22 Episoden: [[8 Punkte|8,6]]/10 Punkte
+5. Staffel 22 Episoden: [[8 Punkte|8,4]]/10 Punkte
+6. Staffel 10 Episoden: [[7 Punkte|7,8]]/10 Punkte
+7. Staffel 18 Episoden: [[7 Punkte|7,3]]/10 Punkte
+8. Staffel 18 Episoden: -
 
 
 [[Serien]]

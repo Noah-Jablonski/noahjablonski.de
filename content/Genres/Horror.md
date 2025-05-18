@@ -1,3 +1,5 @@
+[[Genres|Genre]]
+
 Unterkategorien:
 
 - [[Slasher]]
