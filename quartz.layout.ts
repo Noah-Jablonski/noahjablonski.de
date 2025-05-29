@@ -5,7 +5,17 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Graph({
+      localGraph: {
+        scale: 1.1,
+        repelForce: 2.5,
+        centerForce: 1.5,
+        linkDistance: 20,
+        fontSize: 0.5,
+      },
+      }),
+  ],
   footer: Component.Footer({
     links: {
       quartzblog: "https://github.com/Noah-Jablonski/quartzblog",
@@ -23,15 +33,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.Graph({
-      localGraph: {
-        scale: 1.1,
-        repelForce: 2.5,
-        centerForce: 1.5,
-        linkDistance: 20,
-        fontSize: 0.5,
-      },
-      }),
   ],
   left: [
     Component.PageTitle(),

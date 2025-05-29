@@ -4,6 +4,6 @@
 1. Staffel 8 Episoden [[8 Punkte|7,4]]/10 Punkte
 
 
-#Serie
+#Serie #Like
 
 Verfügbar bei: https://www.justwatch.com/de/Serie/Avatar-The-Last-Airbender-0

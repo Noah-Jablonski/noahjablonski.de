@@ -4,6 +4,6 @@
 1. Staffel 9 Folgen: [[8 Punkte|8,7]]/10 Punkte
 
 
-#Serie
+#Serie #Like
 
 Verfügbar bei: https://www.justwatch.com/de/Serie/Daredevil-Born-Again

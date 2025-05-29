@@ -9,6 +9,6 @@
 6. Staffel 15 Episoden: [[8 Punkte|8,4]]/10 Punkte
 
 
-#Serie
+#Serie #Like
 
 Verfügbar bei: https://www.justwatch.com/de/Serie/Cobra-Kai

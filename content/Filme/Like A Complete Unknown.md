@@ -1,7 +1,7 @@
 
 [[Drama]], [[Musik]], [[Biographie]] | Erscheinungsjahr: [[2020er|2024]] | Geschaut: 2025 im Kino | Schauspieler: [[Timothée Chalamet]], [[Edward Norton]], [[Elle Fanning]] | Regisseur: [[James Mangold]] | 2h 20min
 
-[[8 Punkte|8,7]]/10 Punkte
+[[8 Punkte|8,7]]/10 Punkte #Like
 
 
 #Film

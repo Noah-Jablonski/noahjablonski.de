@@ -1,7 +1,7 @@
 
 [[Horror]], [[Thriller]] | Erscheinungsjahr: [[2020er|2022]] | Geschaut: 2024 über Streamingdienst | Schauspieler: [[Mia Goth]], [[Jenna Ortega]], [[Brittany Snow]] | Regisseur: [[Ti West]] | 1h 45min
 
-[[7 Punkte|7,8]]/10 Punkte
+[[7 Punkte|7,8]]/10 Punkte #Like
 
 
 #Film
