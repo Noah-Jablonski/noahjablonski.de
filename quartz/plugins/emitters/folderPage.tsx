@@ -14,7 +14,7 @@ import {
   pathToRoot,
   simplifySlug,
 } from "../../util/path"
-import { defaultListPageLayout, sharedPageComponents } from "../../../../quartz/quartz.layout"
+import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { FolderContent } from "../../components"
 import { write } from "./helpers"
 import { i18n, TRANSLATIONS } from "../../i18n"
