@@ -4,11 +4,11 @@ title: Startseite
 
 ## Aktuelles
 
-|          Neuste Film Kritk:          |    Neuste Serien Kritk:     |     Schaue ich gerade:      |                 Kommt bald:                  |
-| :----------------------------------: | :-------------------------: | :-------------------------: | :------------------------------------------: |
-|           [[Thunderbolts]]           |      [[Reacher]] (S3)       |       [[S.W.A.T.]] S8       | [[Mission Impossible – The Final Reckoning]] |
-|         [[Blood & Sinners]]          | [[Daredevile - Born Again]] |      [[The Rookie]] S7      |           [[Karate Kid - Legends]]           |
-| [[Final Destination 6 - Bloodlines]] |        [[Paradise]]         | [[Love, Death & Robots]] S4 |                [[Ballerina]]                 |
+|          Neuste Film Kritk:          |    Neuste Serien Kritk:     |        Schaue ich gerade:         |                 Kommt bald:                  |
+| :----------------------------------: | :-------------------------: | :-------------------------------: | :------------------------------------------: |
+|           [[Thunderbolts]]           |      [[Reacher]] (S3)       |          [[S.W.A.T.]] S8          | [[Mission Impossible – The Final Reckoning]] |
+|         [[Blood & Sinners]]          | [[Daredevile - Born Again]] | [[You - Du wirst mich lieben]] S5 |           [[Karate Kid - Legends]]           |
+| [[Final Destination 6 - Bloodlines]] |        [[Paradise]]         |    [[Love, Death & Robots]] S4    |                [[Ballerina]]                 |
 
 
 ## Wichtigsten Seiten
