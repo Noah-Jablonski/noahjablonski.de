@@ -2,16 +2,45 @@
 title: Startseite
 ---
 
-## Aktuelles
+# Aktuelles
 
-|          Neuste Film Kritk:          |    Neuste Serien Kritk:     |        Schaue ich gerade:         |                 Kommt bald:                  |
-| :----------------------------------: | :-------------------------: | :-------------------------------: | :------------------------------------------: |
-|           [[Thunderbolts]]           |      [[Reacher]] (S3)       |          [[S.W.A.T.]] S8          | [[Mission Impossible – The Final Reckoning]] |
-|         [[Blood & Sinners]]          | [[Daredevile - Born Again]] | [[You - Du wirst mich lieben]] S5 |           [[Karate Kid - Legends]]           |
-| [[Final Destination 6 - Bloodlines]] |        [[Paradise]]         |    [[Love, Death & Robots]] S4    |                [[Ballerina]]                 |
+|        Schaue ich gerade:         |                 Kommt bald:                  |
+| :-------------------------------: | :------------------------------------------: |
+|          [[S.W.A.T.]] S8          | [[Mission Impossible – The Final Reckoning]] |
+| [[You - Du wirst mich lieben]] S5 |           [[Karate Kid - Legends]]           |
+|    [[Love, Death & Robots]] S4    |                [[Ballerina]]                 |
+
+# Neuste Film Kritiken
+
+## Thunderbolts
+
+| ![[Thunderbolts.jpg]] | Es dauerte nur knapp fünf Jahre, aber Marvel bringt endlich wieder das alte Feeling ins Kino zurück. Seit [[Avengers]] habe ich jeden einzelnen Marvel-Film im Kino gesehen (mit Ausnahme von [[Captain Marvel]], den ich boykottiere, und [[Captain America: Brave New World]]) und musste in den letzten Jahren mit ansehen, wie Marvel ein Projekt nach dem anderen gegen die Wand gefahren hat. Zwischenzeitlich ging es immer mal wieder bergauf, aber seit [[Avengers: Endgame]] ging es kontinuierlich mit der Qualität bergab. Marvel hatte vergessen, was ihre Filme so besonders gemacht hat – das Marvel-Feeling war weg. Genau deswegen war meine Erwartungshaltung bei _Thunderbolts_ [[Thunderbolts\|...Mehr anzeigen]]<br> |
+| :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## Blood & Sinners
+
+| ![[Sinners.jpg]] | Ich kann mich nicht mehr erinnern, wann ich das letzte mal im Kino saß und aus dem Staunen nicht mehr raus kam. Doch umso länger dieser #Film ging, umso weiter öffnete sich mein Mund und der ging bis zum Ende nicht mehr zu. Als ich den Trailer sah, hatte ich schon sofort Bock mehr über den #Film zu erfahren, es sah endlich mal nach etwas Neuem aus, etwas Originelles, nicht mehr der Teil zu diesem #Film oder die xte Fortsetzung dazu. Ich hatte das Glück und beließ es aber bei dem 1. Trailer und wie ich mitbekommen musste, hat das Marketing Team, wie so oft in letzter Zeit, im 2. Trailer viel zu viel verraten und vorweggenommen. So hatte ich bis zu Enthüllung keine  [[Blood & Sinners\|...Mehr anzeigen]] |
+| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## Finale Destination 6 - Bloodlines
+
+| ![[FD6.jpg]] | Was macht einen guten Final Destination #Film aus? Richtig – hier geht es nicht um die beste Story aller Zeiten, die tollste schauspielerische Leistung und erst recht nicht um die Tiefgründigkeit des Lebens. Es geht um den Spaß, den diese Filme vermitteln – ach ja, und natürlich um gute Kills. Die einen lieben die Final Destination-Reihe, die anderen können mit den Filmen nichts anfangen. Ich gehöre definitiv zu ersteren. Ich habe mit diesen Filmen einfach immer richtig dolle Spaß. Und genau deshalb war ich ziemlich überrascht und gehypt, als ich die Ankündigung zum sechsten Teil gesehen habe – denn eigentlich hatte ich schon abgeschlossen damit [[Final Destination 6 - Bloodlines\|...Mehr anzeigen]] |
+| :----------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-## Wichtigsten Seiten
+# Neuste Serien Kritiken
+
+## Reacher - Staffel 3
+
+| ![[ReacherS3.jpg]] | Jack Reacher geht in die nächste Runde und erweckt nun Lee Childs "Janusmann" mit actionreichen Bildern zum Leben. Bereits mit 2 Staffeln à 8 Folgen wurden die Romanvorlagen auf Prime Video realisiert, und [[Alan Ritchson]] schlüpft dabei in die Rolle des wortkargen Ex-Militärs. Die ersten beiden Staffeln waren für Prime ein echter Glücksgriff, schlugen bei den Zuschauern ordentlich ein – und auch mit der dritten Staffel soll das nicht anders sein. In der dritten Staffel sehen wir Jack Reacher wieder auf sich allein gestellt. War er in der letzten Staffel noch von einem ganzen Team unterstützt worden, so ist er hier größtenteils solo unterwegs. Trotzdem spielt seine militärische [[Reacher\|...Mehr anzeigen]] |
+| :----------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## Daredevil - Born Again
+
+| ![[Daredevil.jpg]] | Nach über einem Jahrzehnt schlüpft [[Charlie Cox]] wieder in die Rolle des Matthew Murdock, diesmal jedoch auf Disneys hauseigenem Streamingdienst. Schon damals auf Netflix war ich hin und weg von [[Daredevil]] – es war zu dem Zeitpunkt etwas komplett Neues. Das kleine Netflix/Marvel-Universum legte den Fokus auf deutlich nahbarere Charaktere und Geschichten. Statt groß aufgezogener multiversaler Schlachten lag hier der Schwerpunkt auf kleineren, charakterbezogenen Erzählungen, zum Beispiel _Daredevil_, in dem er gegen den Unterweltboss Wilson Fisk ([[Vincent D'Onofrio]]) antreten musste. Der Vorteil: Die Charaktere haben genug Möglichkeit und Zeit, sich [[Daredevile - Born Again\|...Mehr anzeigen]] |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+# Wichtigsten Seiten
 
 - [[Filme]]
 - [[Serien]]
@@ -24,7 +53,7 @@ title: Startseite
 - #Dislike
 
 
-## Wie ich bewerte und warum
+# Wie ich bewerte und warum
 
 
 Hi, die Seite dient dazu, einmal meine [[Wertungen]] und Kritiken zu erklären. Wie bereits auf der erklärt ist, ist hier alles rein meine subjektive Meinung. Ich würde zwar schon behaupten, dass ich mir über die Jahre eine gewisse Expertise angeeignet habe und teils durchaus Ahnung habe, wovon ich rede, aber am Ende ist es immer noch nur meine Meinung, und ich höre mir sehr gerne andere Sichtweisen und Meinungen an.
@@ -44,7 +73,7 @@ Wichtig noch zu erwähnen ist, dass ich manche Kritiken direkt nach dem Schauen 
 Ja, jetzt habe ich hier doch deutlich mehr geschrieben und viel um den heißen Brei geredet, trotzdem wollte ich einmal ausführlich meine Art der Kritik niederschreiben (und halbwegs meine Gedankengänge erklären). Ich hoffe, das hat so halbwegs funktioniert und man kann jetzt verstehen, wie oder warum ich den [[Filme|Film]] so bewertet habe und diese [[Serien|Serie]] so.
 
 
-## Über Mich
+# Über Mich
 
 Herzlich Willkommen auf der Seite von meinem kleinen Blog. Bevor ich hier anfange irgendwas unnötiges zu erzählen, erst einmal ein paar Sachen über mich.
 
