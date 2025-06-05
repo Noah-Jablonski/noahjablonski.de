@@ -51,6 +51,33 @@ title: Startseite
 |   [[Schauspieler🎭]]   |          |           |
 |    [[Regisseur🎬]]     |          |           |
 
+# Top 2025
+
+## Filme
+
+| 1. [[Nosferatu - Der Untote]]   | 2. [[Blood & Sinners]] | 3. [[Like A Complete Unknown]] |
+| ------------------ | ---------------------- | ------------------------------ |
+| ![[Nosferatu.jpg]] | ![[Sinners 1.jpg]]     | ![[LikeACompleteUnknown.jpg]]  |
+
+## Serien
+
+| 1. [[Daredevile - Born Again]] | 2. [[Cobra Kai]] S6 | 3. [[Reacher]] S3    |
+| ------------------------------ | ------------------- | -------------------- |
+| ![[Daredevil 1.jpg]]           | ![[CobraKaiS6.jpg]] | ![[ReacherS3 1.jpg]] |
+# Top 2024
+
+## Filme
+
+| 1. [[Dune - Part Zwei]] | 2. [[Konklave]]   | 3. [[Challengers]]   |
+| ----------------------- | ----------------- | -------------------- |
+| ![[Dune2.jpg]]          | ![[Konklave.jpg]] | ![[Challengers.jpg]] |
+## Serien
+
+| 1. [[The Boys]] S4 | 2. [[Invincible]] S2  | 3. [[3 Body Problem]] |
+| ------------------ | --------------------- | --------------------- |
+| ![[TheBoysS4.jpg]] | ![[InvincibleS2.jpg]] | ![[3BodyProblem.jpg]] |
+
+
 # Wie ich bewerte und warum
 
 
@@ -79,7 +106,7 @@ Ich bin Noah, Anfang 20, komme aus NRW und gebe definitiv zu viel Geld fürs Kin
 
 Ich liebe Filme und Serien und beschäftige mich extrem gerne mit Theorien, den Welten und Themen in diesen wundervollen Bewegbildproduktionen.  Daher habe ich diesen Blog hier erstellt, um einen Seite zu haben in der ich meinen Senf und Meinungen abzulassen und damit diese nicht meine Notizen auf dem Handy vollmüllen.
 
-Alles hier bewegt sich stark unter dem Motto: Viel Meinung für teils sehr wenig Ahnung. Behaltet das immer gerne im Hinterkopf, falls mal eine Kritik oder Bewertung nicht mit eurer übereinstimmt.
+**Alles hier bewegt sich stark unter dem Motto: Viel Meinung für teils sehr wenig Ahnung. Behaltet das immer gerne im Hinterkopf, falls mal eine Kritik oder Bewertung nicht mit eurer übereinstimmt.**
 
 Die Seite hier ist eigentlich nur eine Art Ventil für mich und ist extrem Subjektiv, natürlich versuche ich verschiedene Blickwinkel und Standpunkte zu berücksichtigen, aber am Ende ist es immer noch meine Meinung.
 

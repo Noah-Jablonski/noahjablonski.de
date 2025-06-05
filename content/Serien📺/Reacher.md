@@ -1,7 +1,9 @@
 
 [[Drama]], [[Krimi]], [[Action]], [[Thriller]] | Erscheinungsjahr: [[2020er|2022]] | Geschaut: 2022-2025 | Schauspieler: [[Alan Ritchson]], [[Maria Sten]], [[Malcolm Goodwin]] 
 
-## 1. Staffel 8 Folgen: [[8 Punkte|8,7]]/10 Punkte #Like
+## 1. Staffel 8 Folgen: 
+
+[[8 Punkte|8,7]]/10 Punkte #Like
 
 
 ### Der Große Mann von Amazon
@@ -17,7 +19,9 @@ Dabei bleibt _Reacher_ der Buchvorlage deutlich näher als die Filme es getan ha
 Abschließend lässt sich sagen, dass _Reacher_ sicherlich nichts völlig Neues erzählt, was es nicht schon tausendmal gab, aber trotzdem schafft die Staffel eine gute Balance zwischen fesselnder Story, sehr guter Charakterzeichnung und mitreißender Action. Wer noch nicht wusste, ob er _Reacher_ eine Chance geben soll, sollte es tun – nicht nur Buch-Fans werden mit dieser #Serie Spaß haben.
 
 
-## 2. Staffel 8 Folgen: [[7 Punkte|7,1]]/10 Punkte
+## 2. Staffel 8 Folgen: 
+
+[[7 Punkte|7,1]]/10 Punkte
 
 
 ### Ein Hüne kommt selten allein
@@ -35,7 +39,9 @@ Auf der anderen Seite muss man aber auch anerkennen, dass die Staffel im Bereich
 Unterm Strich ist _Reacher Staffel 2_ eine gute und immer noch gelungene Fortsetzung, die aber einige Abzüge mit sich bringt. Im Gesamtkontext finde ich sie mittlerweile deutlich besser als zum Zeitpunkt ihrer Erstausstrahlung. Ich finde es gut, dass die Macher durchaus Variabilität in die #Serie bringen wollen – doch sie sollten nicht vergessen, was _Reacher_ eigentlich ausmacht.
 
 
-## 3. Staffel 8 Folgen: [[8 Punkte|8,4]]/10 Punkte 
+## 3. Staffel 8 Folgen: 
+
+[[8 Punkte|8,4]]/10 Punkte 
 
 
 ### Ein paar Fäuste für einen Teppichverkäufer
