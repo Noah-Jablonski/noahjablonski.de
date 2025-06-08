@@ -2,7 +2,7 @@
 title: Startseite
 ---
 
-# Aktuelles
+# Aktuelles📰
 
 |       Schaue ich gerade:👀        |                Kommt bald:🔜                 | Empfehlungen:🔥 |
 | :-------------------------------: | :------------------------------------------: | --------------- |
@@ -10,7 +10,7 @@ title: Startseite
 | [[You - Du wirst mich lieben]] S5 |           [[Karate Kid - Legends]]           |                 |
 |    [[Love, Death & Robots]] S4    |                [[Ballerina]]                 |                 |
 
-# Neuste Film Kritiken
+# Neuste Film Kritiken🆕
 
 ## Thunderbolts
 
@@ -27,7 +27,7 @@ title: Startseite
 | ![[FD6.jpg\|1600]] | Was macht einen guten Final Destination Film aus? Richtig – hier geht es nicht um die beste Story aller Zeiten, die tollste schauspielerische Leistung und erst recht nicht um die Tiefgründigkeit des Lebens. Es geht um den Spaß, den diese Filme vermitteln – ach ja, und natürlich um gute Kills. Die einen lieben die Final Destination-Reihe, die anderen können mit den Filmen nichts anfangen. Ich gehöre definitiv zu ersteren. Ich habe mit diesen Filmen einfach immer richtig dolle Spaß. Und genau deshalb war ich ziemlich überrascht und gehypt, als ich die Ankündigung zum sechsten Teil gesehen habe – denn eigentlich hatte ich schon abgeschlossen damit, jemals wieder einen Final Destination Film im Kino zu se[[Final Destination 6 - Bloodlines\|...Mehr anzeigen]] |
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-# Neuste Serien Kritiken
+# Neuste Serien Kritiken🆕
 
 ## Reacher - Staffel 3
 
@@ -39,7 +39,7 @@ title: Startseite
 | ![[Daredevil.jpg\|1600]] | Nach über einem Jahrzehnt schlüpft Charlie Cox wieder in die Rolle des Matthew Murdock, diesmal jedoch auf Disneys hauseigenem Streamingdienst. Schon damals auf Netflix war ich hin und weg von Daredevil – es war zu dem Zeitpunkt etwas komplett Neues. Das kleine Netflix/Marvel-Universum legte den Fokus auf deutlich nahbarere Charaktere und Geschichten. Statt groß aufgezogener multiversaler Schlachten lag hier der Schwerpunkt auf kleineren, charakterbezogenen Erzählungen, zum Beispiel _Daredevil_, in dem er gegen den Unterweltboss Wilson Fisk (Vincent D'Onofrio) antreten musste. Der Vorteil: Die Charaktere haben genug Möglichkeit und Zeit, sich zu entwickeln und dem Zuschauer nähergebracht zu werden. Es[[Daredevile - Born Again\|...Mehr anzeigen]] |
 | :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-# Wichtigsten Seiten
+# Wichtigsten Seiten‼️
 
 |      Hauptseiten       |   Tags   | Franchise |
 | :--------------------: | :------: | :-------: |
@@ -51,34 +51,34 @@ title: Startseite
 |   [[Schauspieler🎭]]   |          |           |
 |    [[Regisseur🎬]]     |          |           |
 
-# Top 2025
+# Top 2025🔝
 
-## Filme
+## Filme🍿
 
 | 1. [[Blood & Sinners]] | 2. [[Nosferatu - Der Untote]] | 3. [[Like A Complete Unknown]] |
 | ---------------------- | ----------------------------- | ------------------------------ |
 | ![[Sinners 1.jpg]]     | ![[Nosferatu.jpg]]            | ![[LikeACompleteUnknown.jpg]]  |
 
-## Serien
+## Serien📺
 
 | 1. [[Daredevile - Born Again]] | 2. [[Cobra Kai]] S6 | 3. [[Reacher]] S3    |
 | ------------------------------ | ------------------- | -------------------- |
 | ![[Daredevil 1.jpg]]           | ![[CobraKaiS6.jpg]] | ![[ReacherS3 1.jpg]] |
-# Top 2024
+# Top 2024🔝
 
-## Filme
+## Filme🍿
 
 | 1. [[Dune - Part Zwei]] | 2. [[Konklave]]   | 3. [[Challengers]]   |
 | ----------------------- | ----------------- | -------------------- |
 | ![[Dune2.jpg]]          | ![[Konklave.jpg]] | ![[Challengers.jpg]] |
-## Serien
+## Serien📺
 
 | 1. [[The Boys]] S4 | 2. [[Invincible]] S2  | 3. [[3 Body Problem]] |
 | ------------------ | --------------------- | --------------------- |
 | ![[TheBoysS4.jpg]] | ![[InvincibleS2.jpg]] | ![[3BodyProblem.jpg]] |
 
 
-# Wie ich bewerte und warum
+# Wie ich bewerte und warum⁉️
 
 
 Hi, die Seite dient dazu, einmal meine Wertungen und Kritiken zu erklären. Wie bereits auf der erklärt ist, ist hier alles rein meine subjektive Meinung. Ich würde zwar schon behaupten, dass ich mir über die Jahre eine gewisse Expertise angeeignet habe und teils durchaus Ahnung habe, wovon ich rede, aber am Ende ist es immer noch nur meine Meinung, und ich höre mir sehr gerne andere Sichtweisen und Meinungen an.
@@ -98,7 +98,7 @@ Wichtig noch zu erwähnen ist, dass ich manche Kritiken direkt nach dem Schauen 
 Ja, jetzt habe ich hier doch deutlich mehr geschrieben und viel um den heißen Brei geredet, trotzdem wollte ich einmal ausführlich meine Art der Kritik niederschreiben (und halbwegs meine Gedankengänge erklären). Ich hoffe, das hat so halbwegs funktioniert und man kann jetzt verstehen, wie oder warum ich den #Film so bewertet habe und diese #Serie so.
 
 
-# Über Mich
+# Über Mich🪪
 
 Herzlich Willkommen auf der Seite von meinem kleinen Blog. Bevor ich hier anfange irgendwas unnötiges zu erzählen, erst einmal ein paar Sachen über mich.
 
