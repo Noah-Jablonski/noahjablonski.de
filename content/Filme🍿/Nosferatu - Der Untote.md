@@ -20,4 +20,5 @@ Allerdings hat der #Film auch Schwächen. Die theatralische Spielweise funktioni
 
 Ich hatte mit diesem #Film sehr viel Spaß und finde, dass er eindrucksvoll zeigt, dass Klassiker durchaus sinnvoll und respektvoll neu aufgelegt werden können – wenn man weiß, wie.
 
+
 Verfügbar bei: https://www.justwatch.com/de/Film/nosferatu-der-untote

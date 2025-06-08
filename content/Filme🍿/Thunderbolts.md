@@ -20,4 +20,5 @@ Dieser #Film ist nicht perfekt – das sei auch gesagt. Einige Figuren geraten i
 
 Inhaltlich legt der #Film wichtige Grundlagen für kommende #MCU -Phasen – vor allem durch die Post-Credit-Szene. _Thunderbolts_ ist weniger Spektakel, mehr Charakterstudie. Das wird nicht jedem gefallen, aber ich hoffe, dass Marvel in Zukunft öfter solche Überraschungen parat hat – denn mit diesem #Film habe ich wirklich nicht gerechnet.
 
+
 Verfügbar bei: https://www.justwatch.com/de/Film/Thunderbolts

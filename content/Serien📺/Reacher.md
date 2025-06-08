@@ -59,4 +59,5 @@ Was die #Serie besonders gut macht, ist, dass sie _Reachers_ Welt organisch erwe
 
 ## 4. Staffel: -
 
+
 Verfügbar bei: https://www.justwatch.com/de/Serie/Jack-Reacher

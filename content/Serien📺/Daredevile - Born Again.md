@@ -18,4 +18,5 @@ Doch so durchschüttelnd die erste Folge war, so hatte die #Serie Schwierigkeite
 
 _Born Again_ ist eine würdevolle Fortsetzung einer schon sehr guten #Serie und ebnet hoffentlich den Weg für [[Charlie Cox]] und Co. ins MCU. Denn wenn eins auch durch diese Staffel deutlich wird, dann dass das MCU wieder mehr von charakterstarken Figuren braucht, die auch in kleineren Geschichten glänzen können und es nicht immer nur das große Spektakel braucht. Bereits die _Spider-Man_-Filme oder zuletzt auch [[Thunderbolts]] zeigten, dass nicht immer die ganze Welt auf dem Spiel stehen muss, damit Marvel auf der großen Leinwand funktioniert. Zwar hat die #Serie hier und da ein paar Schwächen und muss sicherlich mit den weiteren Staffeln – laut Disney jedes Jahr eine neue – noch ihren Platz finden, vor allem mit neuen Charakteren, aber sie bringt auch sichtlich neuen Glanz in ein bereits etabliertes Gerüst rund um [[Charlie Cox]]' _Daredevil_.
 
+
 Verfügbar bei: https://www.justwatch.com/de/Serie/Daredevil-Born-Again

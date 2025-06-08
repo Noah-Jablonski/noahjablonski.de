@@ -18,4 +18,5 @@ Allerdings muss man auch sagen: Der #Film geht ganz schön an die Grenzen, was d
 
 _Bloodlines_ reiht sich also genau da ein, wo der letzte Teil vor über einem Jahrzehnt aufgehört hat, und führt das Franchise auf solide Weise weiter. Der #Film hat nichts von seinem Charme und der packenden Inszenierung brutaler, blutiger Kills verloren – glänzt aber auch nicht gerade mit seiner Geschichte. Alte Fans werden ihn lieben, und durch die moderne Aufmachung könnte er sogar neue dazugewinnen. Wer morbiden und brutalen Horror mag, wird mit diesem Film eine Menge Spaß haben.
 
+
 Verfügbar bei: https://www.justwatch.com/de/Film/final-destination-6-bloodlines
