@@ -4,11 +4,11 @@ title: Startseite
 
 # Aktuelles📰
 
-|       Schaue ich gerade:👀        |                Kommt bald:🔜                 | Empfehlungen:🔥 |
-| :-------------------------------: | :------------------------------------------: | --------------- |
-|          [[S.W.A.T.]] S8          | [[Mission Impossible – The Final Reckoning]] |                 |
-| [[You - Du wirst mich lieben]] S5 |           [[Karate Kid - Legends]]           |                 |
-|    [[Love, Death & Robots]] S4    |                [[Ballerina]]                 |                 |
+|    Schaue ich gerade:👀     |                Kommt bald:🔜                 | Empfehlungen:🔥 |
+| :-------------------------: | :------------------------------------------: | --------------- |
+|       [[S.W.A.T.]] S8       | [[Mission Impossible – The Final Reckoning]] |                 |
+|   [[Ginny & Georgia]] S3    |           [[Karate Kid - Legends]]           |                 |
+| [[Love, Death & Robots]] S4 |                [[Ballerina]]                 |                 |
 
 # Neuste Film Kritiken🆕
 
@@ -47,15 +47,24 @@ title: Startseite
 
 # Wichtigsten Seiten‼️
 
-|      Hauptseiten       |   Tags   | Franchise |
-| :--------------------: | :------: | :-------: |
-|      [[Filme🍿]]       |  #Like   |   #MCU    |
-|      [[Serien📺]]      | #Dislike |           |
-|      [[Genres📚]]      |          |           |
-| [[Erscheinungsjahr📆]] |          |           |
-|     [[Wertungen⭐]]     |          |           |
-|   [[Schauspieler🎭]]   |          |           |
-|    [[Regisseur🎬]]     |          |           |
+|      Hauptseiten       |    Tags    | Franchise |
+| :--------------------: | :--------: | :-------: |
+|      [[Filme🍿]]       |   #Like    |   #MCU    |
+|      [[Serien📺]]      |  #Dislike  |           |
+|      [[Genres📚]]      | #Kurzkritk |           |
+| [[Erscheinungsjahr📆]] |            |           |
+|     [[Wertungen⭐]]     |            |           |
+|   [[Schauspieler🎭]]   |            |           |
+|    [[Regisseur🎬]]     |            |           |
+
+# Kurzkritiken🤏🏻
+
+## You - Staffel 5
+
+| ![[YouS5.jpg\|1600]] | Mit You Staffel 5 geht nun eine weitere Serie diese Jahr ihrem Ende entgegen und bei dieser Serie muss ich leider sagen: Es ist gut so. You hatte schon seit längerem ein elementares Problem und längst das verloren, was noch die ersten Beiden Staffeln ausgemacht hat. Durch die Staffel hinweg zieht sich dann aber doch noch alt bekannte Gefühl was uns Joe Goldberg über 7 Jahre hinweg verleiht hat, doch gegen Ende hin wechselt der Fokus weg von ihm und somit auch meine letzte Interesse an dieser Serie. Penn Badgley trug diese Serie, doch immer weiter Richtung Finale wechselt der Fokus des Protagonisten was für mich leider überhaupt nicht funktioniert. Am Ende bleibt ein Gefühl, dass dieser Serie[[You - Du wirst mich lieben\|...Mehr anzeigen]] |
+| :------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
 
 # Top 2025🔝
 
