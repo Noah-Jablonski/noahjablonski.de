@@ -1,7 +1,7 @@
 
 [[Horror]], [[Mystery]] & [[Thriller]], [[Action]] | Erscheinungsjahr: [[2020er|2025]] | Geschaut: 2025 im Kino | Schauspieler: [[Michael B. Jordan]], [[Miles Caton]], [[Hailee Steinfeld]] | Regisseur: [[Ryan Coogler]] | 2h 17min
 
-[[9 Punkte|9,4]]/10 Punkte
+[[9 Punkte|9,4]]/10 Punkte #Like
 
 
 ### Michael B. Jordan in seiner besten Rolle

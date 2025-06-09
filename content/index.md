@@ -4,18 +4,18 @@ title: Startseite
 
 # Aktuelles📰
 
-|    Schaue ich gerade:👀     |                Kommt bald:🔜                 | Empfehlungen:🔥 |
-| :-------------------------: | :------------------------------------------: | --------------- |
-|       [[S.W.A.T.]] S8       | [[Mission Impossible – The Final Reckoning]] |                 |
-|   [[Ginny & Georgia]] S3    |           [[Karate Kid - Legends]]           |                 |
-| [[Love, Death & Robots]] S4 |                [[Ballerina]]                 |                 |
+|    Schaue ich gerade:👀     |                Kommt bald:🔜                 | Empfehlungen:🔥  |
+| :-------------------------: | :------------------------------------------: | :--------------: |
+|       [[S.W.A.T.]] S8       | [[Mission Impossible – The Final Reckoning]] | [[Thunderbolts]] |
+|   [[Ginny & Georgia]] S3    |           [[Karate Kid - Legends]]           |                  |
+| [[Love, Death & Robots]] S4 |                [[Ballerina]]                 |                  |
 
 # Neuste Film Kritiken🆕
 
-## Thunderbolts
+## Until Dawn
 
-| ![[Thunderbolts.jpg\|1600]] | Es dauerte nur knapp fünf Jahre, aber Marvel bringt endlich wieder das alte Feeling ins Kino zurück. Seit Avengers habe ich jeden einzelnen Marvel-Film im Kino gesehen (mit Ausnahme von Captain Marvel, den ich boykottiere, und Captain America: Brave New World) und musste in den letzten Jahren mit ansehen, wie Marvel ein Projekt nach dem anderen gegen die Wand gefahren hat. Zwischenzeitlich ging es immer mal wieder bergauf, aber seit Avengers: Endgame ging es kontinuierlich mit der Qualität bergab. Marvel hatte vergessen, was ihre Filme so besonders gemacht hat – das Marvel-Feeling war weg. Genau deswegen war meine Erwartungshaltung bei Thunderbolts ziemlich niedrig. Ich muss sogar zugeben: Bei der Ank[[Thunderbolts\|...Mehr anzeigen]]<br> |
-| :-------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Until Dawn.jpg\|1600]] | Was passiert, wenn man aus einem Videospiel, das zugleich schon ein narratives, interaktives, storybasiertes Slasher-Horror-Spiel ist, den eigentlichen Spielkniff wegnimmt und daraus einen Film macht? Genau das hier! Until Dawn ist das neueste Werk aus dem Hause Sony, das nach einem erfolgreichen Videospiel nun auch eine Verfilmung bekommt. Wahrscheinlich saßen wieder ein paar große Köpfe in einem Raum zusammen, haben sich die Videospielsammlung angeschaut, und dann zeigte einer auf das Spiel und meinte: "Ey, hierzu haben wir noch nichts gemacht – und Horror geht doch eigentlich immer!" Dann nickten alle einvernehmlich – und zack, kurze Zeit später flimmert also das Werk über die große Leinwand. Und b[[Until Dawn\|...Mehr anzeigen]]<br> |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Blood & Sinners
 
