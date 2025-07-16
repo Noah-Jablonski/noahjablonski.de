@@ -1,14 +1,13 @@
 ---
 title: Startseite
 ---
-
 # Aktuelles📰
 
-|    Schaue ich gerade:👀     |                Kommt bald:🔜                 | Empfehlungen:🔥  |
-| :-------------------------: | :------------------------------------------: | :--------------: |
-|       [[S.W.A.T.]] S8       | [[Mission Impossible – The Final Reckoning]] | [[Thunderbolts]] |
-|   [[Ginny & Georgia]] S3    |           [[Karate Kid - Legends]]           |                  |
-| [[Love, Death & Robots]] S4 |                [[Ballerina]]                 |                  |
+|    Schaue ich gerade:👀     |                Kommt bald:🔜                 |  Empfehlungen:🔥   |
+| :-------------------------: | :------------------------------------------: | :----------------: |
+|       [[S.W.A.T.]] S8       | [[Mission Impossible – The Final Reckoning]] |  [[Thunderbolts]]  |
+|   [[Ginny & Georgia]] S3    |           [[Karate Kid - Legends]]           | [[28 Years Later]] |
+| [[Love, Death & Robots]] S4 |                [[Ballerina]]                 |                    |
 
 # Neuste Film Kritiken🆕
 
@@ -17,10 +16,10 @@ title: Startseite
 | ![[Until Dawn.jpg\|1600]] | Was passiert, wenn man aus einem Videospiel, das zugleich schon ein narratives, interaktives, storybasiertes Slasher-Horror-Spiel ist, den eigentlichen Spielkniff wegnimmt und daraus einen Film macht? Genau das hier! Until Dawn ist das neueste Werk aus dem Hause Sony, das nach einem erfolgreichen Videospiel nun auch eine Verfilmung bekommt. Wahrscheinlich saßen wieder ein paar große Köpfe in einem Raum zusammen, haben sich die Videospielsammlung angeschaut, und dann zeigte einer auf das Spiel und meinte: "Ey, hierzu haben wir noch nichts gemacht – und Horror geht doch eigentlich immer!" Dann nickten alle einvernehmlich – und zack, kurze Zeit später flimmert also das Werk über die große Leinwand. Und b[[Until Dawn\|...Mehr anzeigen]]<br> |
 | :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## Blood & Sinners
+## 28 Years Later
 
-| ![[Sinners.jpg\|1600]] | Ich kann mich nicht mehr erinnern, wann ich das letzte mal im Kino saß und aus dem Staunen nicht mehr raus kam. Doch umso länger dieser Film ging, umso weiter öffnete sich mein Mund und der ging bis zum Ende nicht mehr zu. Als ich den Trailer sah, hatte ich schon sofort Bock mehr über den Film zu erfahren, es sah endlich mal nach etwas Neuem aus, etwas Originelles, nicht mehr der Teil zu diesem Film oder die xte Fortsetzung dazu. Ich hatte das Glück und beließ es aber bei dem 1. Trailer und wie ich mitbekommen musste, hat das Marketing Team, wie so oft in letzter Zeit, im 2. Trailer viel zu viel verraten und vorweggenommen. So hatte ich bis zu Enthüllung keine Ahnung, wer der Antagonist und Gegenspiel[[Blood & Sinners\|...Mehr anzeigen]] |
-| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[28 Years Later.jpg\|1600]] | Nicht ganz 28 Jahre dauerte es, bis Danny Boyle & Alex Garland es nach Jahren der Planung und großer Ankündigungen in erneuter Zusammenarbeit geschafft haben, _28 Years Later_ auf die Leinwand zu bringen. Lange Zeit haben sie darüber gesprochen, und nun, 23 Jahre nach ihrem Klassiker, kommt der dritte Teil in die Kinos. Und direkt knallte dann die Promophase so richtig rein – in einer Zeit, in der viele vergessen haben, wie gute Trailer funktionieren, hat dieser Film es geschafft, einen riesigen Hype um den Streifen zu erzeugen. Millionen Aufrufe erhielt der erste Trailer – und auch mich hat er richtig gepackt. Das erste Mal habe ich ihn tatsächlich im Kino selbst gesehen. Ohne Gerede oder Tam-Tam, nu[[28 Years Later\|...Mehr anzeigen]] |
+| :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Finale Destination 6 - Bloodlines
 
@@ -50,12 +49,13 @@ title: Startseite
 |      Hauptseiten       |    Tags    | Franchise |
 | :--------------------: | :--------: | :-------: |
 |      [[Filme🍿]]       |   #Like    |   #MCU    |
-|      [[Serien📺]]      |  #Dislike  |           |
-|      [[Genres📚]]      | #Kurzkritk |           |
+|      [[Serien📺]]      |  #Dislike  | #StarWars |
+|      [[Genres📚]]      | #Kurzkritk |   #DCU    |
 | [[Erscheinungsjahr📆]] |            |           |
 |     [[Wertungen⭐]]     |            |           |
 |   [[Schauspieler🎭]]   |            |           |
 |    [[Regisseur🎬]]     |            |           |
+|     [[Watchlog🔖]]     |            |           |
 
 # Kurzkritiken🤏🏻
 

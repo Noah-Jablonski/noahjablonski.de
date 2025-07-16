@@ -3,7 +3,10 @@
 
 1. Staffel 10 Folgen:
 2. Staffel 10 Folgen:
-3. Staffel 10 Folgen:
+
+## 3.Staffel 10 Folgen:
+
+XX/10 Punkten
 
 
 #Serie 
