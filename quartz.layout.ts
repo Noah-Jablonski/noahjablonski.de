@@ -8,17 +8,26 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.Graph({
       localGraph: {
+        drag: true,
+        zoom: true,
+        depth: 1,
         scale: 1.1,
-        repelForce: 2.5,
-        centerForce: 1.5,
-        linkDistance: 20,
-        fontSize: 0.5,
+        repelForce: 3,
+        centerForce: 1,
+        linkDistance: 35,
+        fontSize: 0.75,
+        opacityScale: 0.7,
+        removeTags: [],
+        showTags: true,
+        enableRadial: false,
       },
       }),
   ],
   footer: Component.Footer({
     links: {
       quartzblog: "https://github.com/Noah-Jablonski/quartzblog",
+      Kontakt:"mailto:info@noahjablonski.de",
+      Instagram: "https://www.instagram.com/noahjablonski.de"
     },
   }),
 }
