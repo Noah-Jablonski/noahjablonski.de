@@ -54,7 +54,7 @@ export default {
       title: "Inhaltsverzeichnis",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      readingTime: ({ minutes }) => `Lesezeit: ${minutes} ${minutes > 1 ? "Minuten" : "Minute"}`,
     },
   },
   pages: {

@@ -21,27 +21,28 @@ export const sharedPageComponents: SharedLayout = {
         showTags: true,
         enableRadial: false,
       },
-      }),
-      Component.Comments({
-    provider: 'giscus',
-    options: {
-      // from data-repo
-      repo: 'Noah-Jablonski/noahjablonski.de',
-      // from data-repo-id
-      repoId: 'R_kgDOOkAKpw',
-      // from data-category
-      category: 'Announcements',
-      // from data-category-id
-      categoryId: 'DIC_kwDOOkAKp84CtLVd',
-      // from data-lang
-      lang: 'de'
-    }
-  }),
+    }),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'Noah-Jablonski/noahjablonski.de',
+        // from data-repo-id
+        repoId: 'R_kgDOOkAKpw',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOOkAKp84CtLVd',
+        // from data-lang
+        lang: 'de'
+
+      }
+    }),
   ],
   footer: Component.Footer({
     links: {
       quartzblog: "https://github.com/Noah-Jablonski/quartzblog",
-      Kontakt:"mailto:info@noahjablonski.de",
+      Kontakt: "mailto:info@noahjablonski.de",
       Instagram: "https://www.instagram.com/noahjablonski.de"
     },
   }),
