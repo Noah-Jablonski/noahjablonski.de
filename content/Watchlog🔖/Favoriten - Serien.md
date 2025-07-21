@@ -4,7 +4,7 @@ draft: "true"
 | [[Cobra Kai]]          | [[Reacher]]              | [[Invincible]]            | [[Daredevile - Born Again]] | [[The Boys]]                       |
 | ---------------------- | ------------------------ | ------------------------- | --------------------------- | ---------------------------------- |
 |                        |                          |                           |                             |                                    |
-| [[One Piece]]          | [[Prison Break]]         | [[Arcane]]                | [[Ted Lasso]]               | [[The Last of Us]]                 |
+| [[One Piece]]          | [[Prison Break]]         | [[Yellowstone]]           | [[Ted Lasso]]               | [[The Last of Us]]                 |
 |                        |                          |                           |                             |                                    |
 | [[Gen V]]              | [[Blue Eye Samurai]]     | [[Spuk in Hill House]]    | [[Cyberpunk - Edgerunners]] | [[Euphoria]]                       |
 |                        |                          |                           |                             |                                    |
@@ -18,6 +18,4 @@ draft: "true"
 |                        |                          |                           |                             |                                    |
 | [[Brooklyn Nine-Nine]] | [[Lucifer]]              | [[American Horror Story]] | [[House of Cards]]          | [[Star Wars The Clone Wars]]       |
 |                        |                          |                           |                             |                                    |
-| [[Yellowstone]]        |                          |                           |                             |                                    |
-|                        |                          |                           |                             |                                    |
-|                        |                          |                           |                             |                                    |
+
