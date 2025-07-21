@@ -43,22 +43,6 @@ title: Startseite
 | ![[Paradise.jpg\|1600]] | Der Präsident ist tot – mal wieder. Ich glaube, dieses Konzept hatten wir jetzt in jeder erdenklichen Art und Weise: mal war er nur bedroht, mal mitten im Gefecht – und jetzt ist er halt wieder einmal ermordet worden. Also ist das jetzt wieder so eine Serie, die man mit jeder x-beliebigen anderen austauschen kann? Die Antwort ist nein – und zwar ein deutliches. Mit Paradise erschien eine Show auf Disney+, die mich und auch viele andere echt überrascht hat. Denn auch wenn das Konzept und die Ausgangslage durchaus aus diversen anderen Serien und Filmen bekannt ist, hat die Show einige wirklich spannende und durchdachte Kniffe, mit denen ich nicht gerechnet hatte. Nach einiger Zeit haut die Serie mit ein[[Paradise\|...Mehr anzeigen]] |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-# Filmreihen🎞️
-
-|    #StarWars     |    #HerrderRinge    |       #StarTrek       |
-| :--------------: | :-----------------: | :-------------------: |
-|  #JurassicPark   |        #Tron        |     #Ghostbusters     |
-|    #DerHobbit    |      #DerPate       |     #HarryPotter      |
-| #TributevonPanem |       #Batman       |        #Matrix        |
-|    #JamesBond    |        #Saw         |      #MeninBlack      |
-|       #MCU       |        #DCU         |        #X-Men         |
-|   #Terminator    |  #FluchderKaribik   |        #Alien         |
-|   #Transformer   |   #PlanetderAffen   |     #FastFurious      |
-|    #ToyStory     | #ZurückindieZukunft |      #Halloween       |
-|     #Scream      |    #Freitagder13    | #NightmareonElmstreet |
-|  #IndianaJones   |     #KarateKid      |                       |
-
 # Kurzkritiken🤏🏻
 
 ## You - Staffel 5
