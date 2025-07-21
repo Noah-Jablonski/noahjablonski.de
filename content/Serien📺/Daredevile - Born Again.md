@@ -1,5 +1,5 @@
 
-[[Action]], [[Krimi]], [[Drama]], [[Thriller]] | Erscheinungsjahr: [[2020er|2025]] | Geschaut: 2025 | Schauspieler: [[Charlie Cox]], [[Vincent D'Onofrio]], [[Ayelet Zurer]], [[Jon Bernthal]]
+[[Action]], [[Krimi]], [[Drama]], [[Thriller]] | Erscheinungsjahr: [[2020er|2025]] | Geschaut: 2025 | Schauspieler: [[Charlie Cox]], [[Vincent D'Onofrio]], [[Ayelet Zurer]], [[Jon Bernthal]] #MCU
 
 ## 1. Staffel 9 Folgen: 
 

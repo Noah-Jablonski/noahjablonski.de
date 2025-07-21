@@ -3,11 +3,11 @@ title: Startseite
 ---
 # Aktuelles📰
 
-|    Schaue ich gerade:👀     |                Kommt bald:🔜                 |  Empfehlungen:🔥   |
-| :-------------------------: | :------------------------------------------: | :----------------: |
-|       [[S.W.A.T.]] S8       | [[Mission Impossible – The Final Reckoning]] |  [[Thunderbolts]]  |
-|   [[Ginny & Georgia]] S3    |           [[Karate Kid - Legends]]           | [[28 Years Later]] |
-| [[Love, Death & Robots]] S4 |     [[The Fantastic Four - First Steps]]     |                    |
+|    Schaue ich gerade:👀     |                Kommt bald:🔜                 |   Tag:🔥   |
+| :-------------------------: | :------------------------------------------: | :--------: |
+|       [[S.W.A.T.]] S8       | [[Mission Impossible – The Final Reckoning]] |   #Like    |
+|   [[Ginny & Georgia]] S3    |           [[Karate Kid - Legends]]           |  #Dislike  |
+| [[Love, Death & Robots]] S4 |     [[The Fantastic Four - First Steps]]     | #Kurzkritk |
 
 # Neuste Film Kritiken🆕
 
@@ -44,18 +44,20 @@ title: Startseite
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-# Wichtigsten Seiten‼️
+# Filmreihen🎞️
 
-|      Hauptseiten       |    Tags    | Franchise |
-| :--------------------: | :--------: | :-------: |
-|      [[Filme🍿]]       |   #Like    |   #MCU    |
-|      [[Serien📺]]      |  #Dislike  | #StarWars |
-|      [[Genres📚]]      | #Kurzkritk |   #DCU    |
-| [[Erscheinungsjahr📆]] |            |           |
-|     [[Wertungen⭐]]     |            |           |
-|   [[Schauspieler🎭]]   |            |           |
-|    [[Regisseur🎬]]     |            |           |
-|     [[Watchlog🔖]]     |            |           |
+|    #StarWars     |    #HerrderRinge    |       #StarTrek       |
+| :--------------: | :-----------------: | :-------------------: |
+|  #JurassicPark   |        #Tron        |     #Ghostbusters     |
+|    #DerHobbit    |      #DerPate       |     #HarryPotter      |
+| #TributevonPanem |       #Batman       |        #Matrix        |
+|    #JamesBond    |        #Saw         |      #MeninBlack      |
+|       #MCU       |        #DCU         |        #X-Men         |
+|   #Terminator    |  #FluchderKaribik   |        #Alien         |
+|   #Transformer   |   #PlanetderAffen   |     #FastFurious      |
+|    #ToyStory     | #ZurückindieZukunft |      #Halloween       |
+|     #Scream      |    #Freitagder13    | #NightmareonElmstreet |
+|  #IndianaJones   |     #KarateKid      |                       |
 
 # Kurzkritiken🤏🏻
 

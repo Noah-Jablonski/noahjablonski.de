@@ -8,6 +8,6 @@ draft: "true"
 |                                    |                    |                      |                 |                               |
 | [[Hänsel und Gretel - Hexenjäger]] | [[The Babysitter]] | [[In Time]]          | [[The Purge]]   | [[The Purge - Election Year]] |
 |                                    |                    |                      |                 |                               |
-| [[Top Gun - Maverick]]             | [[Vallerian]]      | [[Ready Player One]] | [[Real Steel]]  | [[Legend]]                    |
+| [[Top Gun]]                        | [[Vallerian]]      | [[Ready Player One]] | [[Real Steel]]  | [[Legend]]                    |
 |                                    |                    |                      |                 |                               |
-| [[Enders Game]]                    |                    |                      |                 |                               |
+| [[Enders Game]]                    | [[Tron]]           |                      |                 |                               |
