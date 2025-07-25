@@ -3,7 +3,7 @@
 [[7 Punkte|7,4]]/10 Punkte #MCU 
 
 
-### Für die Familie statt - Fantastic Four findet richtigen Ton fürs MCU
+### Für die Familie - Fantastic Four findet richtigen Ton fürs MCU
 
 Der letzte Marvel-#Film, der dieses Jahr über die Leinwand läuft, ist _Fantastic Four_ – und im dritten Anlauf wird nun versucht, die kultige Marvel-Familie ins #MCU einzubinden. Und das gelingt in großen Teilen ziemlich gut, denn hier wird kein großes Tamtam gemacht. Es wird nicht die Origin-Geschichte der vier Raumfahrer zum x-ten Mal erzählt. Stattdessen geht es direkt Schlag auf Schlag los – der #Film legt ein Wahnsinnstempo vor. Ohne das typische Marvel-Intro beginnt die Geschichte unmittelbar, und wir werden ohne Zögern in die Welt der _Fantastic Four_ hineingezogen. In wenigen Sätzen wird die Vorgeschichte der vier Helden angerissen: wie sie zu ihren Kräften kamen. Denn anders als in allen bisherigen _Fantastic Four_ #Filmen spielt die Handlung nach den Ereignissen im All – unsere Helden sind hier bereits voll etabliert. Das ist unglaublich erfrischend und tut zur Abwechslung richtig gut. Wir müssen nicht schon wieder eine altbekannte Geschichte in leicht veränderter Form sehen, sondern bekommen endlich mal etwas Neues.
 
