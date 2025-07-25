@@ -5,12 +5,12 @@ draft: "true"
 | Sicher                                      | Unsicher                               |
 | ------------------------------------------- | -------------------------------------- |
 | [[The Dark Night]]                          | [[Die Verurteilten]]                   |
-| [[2001 - Odysse im Weltraum]]               | [[Schindlers Liste]]                   |
+| [[2001 - Odysse im Weltraum]]               |                                        |
 | [[Star Wars - Das Imperium schlägt zurück]] | [[Pulp Fiction]]                       |
 | [[Inception]]                               | [[Zurück in die Zukunft]]              |
 | [[Matrix]]                                  | [[Der König der Löwen]]                |
-|                                             | [[The Social Network]]                 |
-|                                             | [[Memenot]]                            |
+| [[Schindlers Liste]]                        | [[The Social Network]]                 |
+| [[Der Pate]]                                | [[Memenot]]                            |
 |                                             | [[The Truman Show]]                    |
 |                                             | [[Shutter Island]]                     |
 |                                             | [[Der Herr der Ringe - Die Gefährten]] |
@@ -24,5 +24,9 @@ draft: "true"
 |                                             | [[Goodfellas]]                         |
 |                                             | [[Das Schweigen der Lämmer]]           |
 |                                             | [[Der Schmale Grat]]                   |
-|                                             | [[Der Pate]]                           |
+|                                             |                                        |
 |                                             | [[Apocalypse Now]]                     |
+|                                             | [[E.T.]]                               |
+|                                             | [[Ben Hur]]                            |
+|                                             | [[Planet der Affen]]                   |
+|                                             | [[Avatar - Aufbruch nach Pandora]]     |

@@ -3,13 +3,20 @@ title: Startseite
 ---
 # Aktuelles📰
 
-|    Schaue ich gerade:👀     |                Kommt bald:🔜                 |   Tag:🔥   |
-| :-------------------------: | :------------------------------------------: | :--------: |
-|       [[S.W.A.T.]] S8       | [[Mission Impossible – The Final Reckoning]] |   #Like    |
-|   [[Ginny & Georgia]] S3    |           [[Karate Kid - Legends]]           |  #Dislike  |
-| [[Love, Death & Robots]] S4 |     [[The Fantastic Four - First Steps]]     | #Kurzkritk |
+|    Schaue ich gerade:👀     |                 Kommt bald:🔜                  |   Tag:🔥   |
+| :-------------------------: | :--------------------------------------------: | :--------: |
+|       [[S.W.A.T.]] S8       |  [[Mission Impossible – The Final Reckoning]]  |   #Like    |
+|   [[Ginny & Georgia]] S3    |            [[Karate Kid - Legends]]            |  #Dislike  |
+| [[Love, Death & Robots]] S4 | [[Ich weiß, was du letzten Sommer getan hast]] | #Kurzkritk |
 
 # Neuste Film Kritiken🆕
+
+
+## The Fantastic Four - First Steps
+
+| ![[F4.jpg\|1600]] | Der letzte Marvel-#Film, der dieses Jahr über die Leinwand läuft, ist Fantastic Four – und im dritten Anlauf wird nun versucht, die kultige Marvel-Familie ins MCU einzubinden. Und das gelingt in großen Teilen ziemlich gut, denn hier wird kein großes Tamtam gemacht. Es wird nicht die Origin-Geschichte der vier Raumfahrer zum x-ten Mal erzählt. Stattdessen geht es direkt Schlag auf Schlag los – der Film legt ein Wahnsinnstempo vor. Ohne das typische Marvel-Intro beginnt die Geschichte unmittelbar, und wir werden ohne Zögern in die Welt der Fantastic Four hineingezogen. In wenigen Sätzen wird die Vorgeschichte der vier Helden angerissen: wie sie zu ihren Kräften kamen. Denn anders als in allen bisherigen[[The Fantastic Four - First Steps\|...Mehr anzeigen]] |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 ## Ballerina
 
@@ -21,10 +28,8 @@ title: Startseite
 | ![[28 Years Later.jpg\|1600]] | Nicht ganz 28 Jahre dauerte es, bis Danny Boyle & Alex Garland es nach Jahren der Planung und großer Ankündigungen in erneuter Zusammenarbeit geschafft haben, _28 Years Later_ auf die Leinwand zu bringen. Lange Zeit haben sie darüber gesprochen, und nun, 23 Jahre nach ihrem Klassiker, kommt der dritte Teil in die Kinos. Und direkt knallte dann die Promophase so richtig rein – in einer Zeit, in der viele vergessen haben, wie gute Trailer funktionieren, hat dieser Film es geschafft, einen riesigen Hype um den Streifen zu erzeugen. Millionen Aufrufe erhielt der erste Trailer – und auch mich hat er richtig gepackt. Das erste Mal habe ich ihn tatsächlich im Kino selbst gesehen. Ohne Gerede oder Tam-Tam, nu[[28 Years Later\|...Mehr anzeigen]] |
 | :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## Until Dawn
 
-| ![[Until Dawn.jpg\|1600]] | Was passiert, wenn man aus einem Videospiel, das zugleich schon ein narratives, interaktives, storybasiertes Slasher-Horror-Spiel ist, den eigentlichen Spielkniff wegnimmt und daraus einen Film macht? Genau das hier! Until Dawn ist das neueste Werk aus dem Hause Sony, das nach einem erfolgreichen Videospiel nun auch eine Verfilmung bekommt. Wahrscheinlich saßen wieder ein paar große Köpfe in einem Raum zusammen, haben sich die Videospielsammlung angeschaut, und dann zeigte einer auf das Spiel und meinte: "Ey, hierzu haben wir noch nichts gemacht – und Horror geht doch eigentlich immer!" Dann nickten alle einvernehmlich – und zack, kurze Zeit später flimmert also das Werk über die große Leinwand. Und b[[Until Dawn\|...Mehr anzeigen]] |
-| :------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 # Neuste Serien Kritiken🆕
 
