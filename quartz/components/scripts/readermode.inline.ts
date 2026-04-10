@@ -9,6 +9,9 @@ const emitReaderModeChangeEvent = (mode: "on" | "off") => {
 
 document.addEventListener("nav", () => {
   const switchReaderMode = () => {
+    // TODO
+    // Liste mit den verfuegbaren seiten kriegen
+    // Onclick zufaelliger eintrag ausgewaehlt und geoeffnet
     isReaderMode = !isReaderMode
     const newMode = isReaderMode ? "on" : "off"
     document.documentElement.setAttribute("reader-mode", newMode)

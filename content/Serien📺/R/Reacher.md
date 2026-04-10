@@ -5,7 +5,6 @@
 
 [[8 Punkte|8,7]]/10 Punkte #Like
 
-
 ### Der Große Mann von Amazon
 
 _Reacher_ kam mit großem Tam-Tam in unser aller Heimkino. Nachdem sich bereits [[Tom Cruise]] in den 2010er Jahren am von Lee Child erschaffenen Universum versucht hatte, startete Prime Video zusammen mit [[Alan Ritchson]] einen neuen Versuch – und soll dabei deutlich näher an der Buchvorlage sein und bedienten sich dabei ein seinen Roman "Größenwahn". Und was soll ich sagen? _Reacher_ macht einfach extrem Spaß: Im Stil der alten Action-Klassiker à la Stallone oder Schwarzenegger bringt _Reacher_ Oldschool-Vibe mit moderner Aufmachung auf den Bildschirm. Dabei blitzen immer wieder Detektiv-Anlehnungen wie Holmes oder Wayne durch, und er hat stets einen zynischen Spruch auf den Lippen. Die #Serie glänzt eben genau durch diese Aspekte: Charaktere und Action stehen im Vordergrund und wachsen einem schnell ans Herz. Vor allem [[Alan Ritchson]] ist gleichermaßen cool wie liebenswert und funktioniert in der Dynamik mit seinen Co-Schauspielern immer wieder aufs Neue herausragend gut. Die Dialoge sind essenziell dafür, dass die #Serie auch abseits der Action extrem Spaß macht – neben harten Schlägen braucht es eben auch Substanz und ein paar lockere Sprüche. Die Handlung ist meist nicht die tiefgründigste, schafft es aber, ein solides Konstrukt zu bieten, in dem es spannend bleibt, Reacher zu folgen.
@@ -18,11 +17,9 @@ Dabei bleibt _Reacher_ der Buchvorlage deutlich näher als die Filme es getan ha
 
 Abschließend lässt sich sagen, dass _Reacher_ sicherlich nichts völlig Neues erzählt, was es nicht schon tausendmal gab, aber trotzdem schafft die Staffel eine gute Balance zwischen fesselnder Story, sehr guter Charakterzeichnung und mitreißender Action. Wer noch nicht wusste, ob er _Reacher_ eine Chance geben soll, sollte es tun – nicht nur Buch-Fans werden mit dieser #Serie Spaß haben.
 
-
 ## 2. Staffel 8 Folgen: 
 
 [[7 Punkte|7,1]]/10 Punkte
-
 
 ### Ein Hüne kommt selten allein
 
@@ -38,11 +35,9 @@ Auf der anderen Seite muss man aber auch anerkennen, dass die Staffel im Bereich
 
 Unterm Strich ist _Reacher Staffel 2_ eine gute und immer noch gelungene Fortsetzung, die aber einige Abzüge mit sich bringt. Im Gesamtkontext finde ich sie mittlerweile deutlich besser als zum Zeitpunkt ihrer Erstausstrahlung. Ich finde es gut, dass die Macher durchaus Variabilität in die #Serie bringen wollen – doch sie sollten nicht vergessen, was _Reacher_ eigentlich ausmacht.
 
-
 ## 3. Staffel 8 Folgen: 
 
 [[8 Punkte|8,4]]/10 Punkte 
-
 
 ### Ein paar Fäuste für einen Teppichverkäufer
 

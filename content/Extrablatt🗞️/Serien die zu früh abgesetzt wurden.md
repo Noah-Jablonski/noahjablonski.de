@@ -1,0 +1,17 @@
+---
+draft: "true"
+---
+- The Society
+- Mindhunter
+- Altered Carbon
+- Daybreak
+- I Am Not Okay With This
+- Scream Queens
+- GLOW
+- Designated Survivor
+- 1899
+- The Purge
+- Community
+- The Royals
+- Bonding
+- Space Force

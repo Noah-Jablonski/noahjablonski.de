@@ -1,4 +1,3 @@
-
 [[Thriller]], [[Action]] | Erscheinungsjahr: [[2020er|2025]] | Geschaut: 2025 im Kino | Schauspieler: [[Ana de Armas]], [[Anjelica Huston]], [[Norman Reedus]] | Regisseur: [[Len Wiseman]] | 2h 5min
 
 [[6 Punkte|6,4]]/10 Punkte

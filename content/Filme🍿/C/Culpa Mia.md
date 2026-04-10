@@ -1,4 +1,3 @@
-
 [[Romantik]], [[Drama]] | Erscheinungsjahr: [[2020er|2023]] | Geschaut: 2025 über Streamingdienst | Schauspieler: [[Nicole Wallace]], [[Gabriel Guevara]], [[Marta Hazas]] | Regisseur: [[Domingo González]] |   
 1h 57min
 

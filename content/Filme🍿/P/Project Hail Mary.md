@@ -1,0 +1,31 @@
+[[Action]] & [[Abenteuer]], [[Science-Fiction]], [[Drama]] | Erscheinungsjahr: [[2020er|2026]] | Geschaut: 2026 im Kino | Schauspieler: [[Ryan Gosling]], [[James Oritz]], [[Sandra Hüller]] | Regisseur: [[Phil Lord]], [[Christopher Miller]] | 2h 37min
+
+[[9 Punkte|9]]/10 Punkte #Like
+
+### Ken goes to space
+
+Ich habe lange überlegt, was ich von _Project Hail Mary_ eigentlich erwartet habe. Einer dieser Filme, die schon Monate vorher überall sind. Einer dieser Filme, bei denen man merkt, wie viel Herzblut schon im Vorfeld drinsteckt, allein schon, weil [[Ryan Gosling]] selbst so stark daran beteiligt war, dass das Ganze überhaupt zustande kommt.
+
+Ryland Grace ([[Ryan Gosling]]) wacht allein auf einem Raumschiff auf, ohne Erinnerung daran, wer er ist oder warum er dort ist. Nach und nach setzt sich seine Vergangenheit zusammen: Die Erde steht vor einer globalen Katastrophe, und er wurde auf eine verzweifelte Mission ins All geschickt, um die Ursache zu finden und eine Lösung zu entwickeln. Während er versucht, das Rätsel zu lösen, stößt er überraschend auf eine fremde Lebensform, und aus dieser Begegnung entsteht eine ungewöhnliche Zusammenarbeit. Gemeinsam stehen sie vor der Frage, ob sie bereit sind, alles zu riskieren, um nicht nur ihre eigene Welt, sondern auch die des anderen zu retten.
+
+Diesem #Film sieht man direkt an, wie viel Mühe in ihn reingeflossen ist. Die Bilder sind fantastisch, wirklich. Diese Weite, diese Leere des Alls, diese Momente, in denen man einfach nur dasitzt und denkt: „Okay, das ist schon ziemlich beeindruckend.“ Und gleichzeitig hat der #Film etwas unglaublich Warmes. Fast schon etwas, das mich stellenweise an alte Disney-Filme erinnert hat, nicht im Stil, sondern im Gefühl.
+
+[[Ryan Gosling]] trägt das Ganze mit einer Leichtigkeit, die manchmal fast schon irritierend ist. Weil er es schafft, Humor, Verzweiflung und diese gewisse Überforderung gleichzeitig zu spielen. Und ja, dieser Humor funktioniert oft richtig gut. Er macht den #Film zugänglich, er lockert auf, er gibt diesen schweren Momenten etwas Menschliches.
+
+Und trotzdem gibt es Momente, in denen er fast zu viel wird. Gerade dann, wenn es eigentlich ernst sein sollte. Wenn Entscheidungen Gewicht haben müssten. Da nimmt der #Film sich manchmal selbst ein bisschen die Fallhöhe, weil immer noch ein lockerer Spruch hinterherkommt. Besonders beim ersten Kontakt mit Rocky ([[James Oritz]]) merkt man das. Dieser Moment, der eigentlich riesig sein müsste, erster Kontakt mit außerirdischem Leben, fühlt sich fast ein bisschen zu beiläufig an.
+
+Jedoch entsteht nach dieser ersten Begegnung eine Beziehung, die das Herzstück des Films ist. Und sie ist erstaunlich berührend. Rocky ([[James Oritz]]) ist liebenswert, ohne jemals nervig zu sein. Und je mehr Zeit die beiden miteinander verbringen, desto mehr wächst da etwas, das sich wirklich echt anfühlt. Diese Freundschaft trägt den #Film emotional komplett und trifft einen an Stellen, an denen man es nicht unbedingt erwartet.
+
+Und genau da wird der #Film dann auch stärker, als man es vielleicht vermuten würde. Weil er plötzlich Fragen stellt, die größer sind als das eigentliche Szenario. Was ist man bereit zu opfern? Für jemanden, der nicht mal zur eigenen Spezies gehört? Für etwas, das man vielleicht nie ganz verstehen wird? Und dann sitzt man da und merkt, dass es gar nicht mehr nur um die Mission geht.
+
+[[Ryan Gosling]] ist wirklich fantastisch und bringt diese Freundschaft glaubhaft auf die Leinwand und strahlt besonders in Szenen voller Einsamkeit. Mit [[Sandra Hüller]] haben wir auch mal wieder deutsche Beteiligung in einem Hollywood Blockbuster. Sie ist an der Seite von [[Ryan Gosling|Ryan]] wirklich eine Augenweide und gibt einen hervorragenden Kontrast. Besonders ihre improvisierte Karaoke Szene trifft einen so unerwartet, dass sie mich wirklich überwältigt hat.
+
+Für mich konkurriert genau diese Szene mit der vielleicht einzigen großen Actionsequenz in diesem Streifen, doch wenn sie dann kommt, dann haut sie richtig rein. Es ist eine Bildgewalt, die auf den Zuschauer losgelassen wird und wirkt schon fast so intensiv wie einige Sequenzen aus _Interstellar_. Dieser Vergleich ist nicht irgendwo bei den Haaren herbeigezogen, sondern zeigt nur, auf welcher Ebene wir uns hier bei _Project Hail Mary_ bewegen. Denn dieser #Film reiht sich nahtlos neben Größen wie _Der Marsianer_ und _Interstellar_ ein und ich glaube, es ist teils nur Geschmackssache, welchen #Film man lieber mag.
+
+Was mich allerdings immer wieder rausgezogen hat, sind die Momente, in denen der #Film es sich ein bisschen zu einfach macht. Probleme werden teilweise sehr schnell gelöst. Kommunikation mit einer fremden Spezies, komplexe technische Herausforderungen, vieles funktioniert erstaunlich reibungslos. Und da musste ich unweigerlich an _Der Marsianer_ denken, der sich mehr Zeit genommen hat, genau solche Dinge nachvollziehbar zu machen. Hier wirkt manches etwas … verkürzt.
+
+Und vielleicht liegt das auch daran, dass der #Film ursprünglich deutlich länger war. Man spürt an einigen Stellen, dass da mehr gewesen sein könnte. Mehr Erklärungen, mehr Aufbau, mehr Raum für bestimmte Momente. Und vielleicht hätte genau das dem #Film gutgetan. Nicht, weil etwas Entscheidendes fehlt, sondern weil es ihm geholfen hätte, sein volles Potenzial auszuschöpfen. Hier wurden von der Originallaufzeit rund 1,5 h rausgeschnitten, da merkt man erst, wie riesig die Buchvorlage war. Laut einigen Buchfans wurden hier zwar keine elementar wichtigen Szenen gestrichen, aber schon einige, in denen mehr erklärt wurde und das merkt man dann auch.
+
+Denn das ist am Ende mein größter Gedanke zu _Project Hail Mary_. Das hier ist ein fantastischer #Film. Einer, der unglaublich viel richtig macht. Der visuell beeindruckt, emotional trifft und mit seiner Mischung aus Humor, Drama und Sci-Fi wirklich funktioniert. Aber gleichzeitig fühlt es sich so an, als wäre noch mehr drin gewesen. Vielleicht werden wir irgendwann noch die volle Fassung sehen und vielleicht gibt der #Film einem dann genau dieses kleine bisschen, das hier am Ende zur Perfektion fehlt.
+
+Verfügbar bei: https://www.justwatch.com/de/Film/der-astronaut

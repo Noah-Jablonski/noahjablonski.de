@@ -1,0 +1,20 @@
+[[Krimi]], [[Science-Fiction]], [[Komödie]] | Erscheinungsjahr: [[2020er|2025]] | Geschaut: 2025 im Kino | Schauspieler: [[Emma Stone]], [[Jesse Plemons]], [[Stavros Halkias]] | Regisseur: [[Yorgos Lanthimos]] | 1h 59min
+
+[[8 Punkte|8,7]]/10 Punkte #Like 
+
+
+### Ist Elvis da oben?
+
+_Bugonia_, ein #Film, den ich in diesem Jahr nicht gerade auf dem Schirm hatte. Ich hatte keinen Trailer gesehen und den Release nur am Rande mitbekommen. Als ein paar Freunde mich einluden, mit ihnen in den #Film zu gehen, hatte ich also kaum eine Ahnung, worauf ich mich da einlasse. Also saß ich irgendwann abends in einem kleinen Kino mit vielleicht vier Reihen, kaum Publikum, null Erwartungshaltung  und genau das war im Nachhinein der perfekte Zustand für diesen #Film.
+
+Teddy ([[Jesse Plemons]]) und sein geistig behinderter Cousin Don ([[Aidan Delbis]]) leben in einer kleinen amerikanischen Gemeinde. Scheinbar banale Alltagsroutinen laufen langsam aus dem Ruder. Aus harmlosen Begegnungen und Beobachtungen entwickeln sich absurde Missverständnisse, Machtspiele und eskalierende Situationen, die immer groteskere Ausmaße annehmen.
+
+_Bugonia_ ist eine absolute Wundertüte, das mal so vorweg. Hier wird sich viel Zeit für den Aufbau genommen, teilweise fast zu viel. Lange Einstellungen, ausgedehnte Bilder und ein sehr starker Fokus auf kleinste Details. In den ersten zwei Dritteln des Films wird sich für alles extrem viel Zeit gelassen manchmal sogar für das allerletzte bisschen. Man merkt schnell: Hier will jemand nicht hetzen, nicht erklären, nicht abholen. Der #Film beobachtet. Er schaut seinen Figuren beim Leben zu, lässt Räume wirken, lässt Stille stehen. Das kann sich stellenweise langatmig anfühlen, keine Frage, aber genau daraus entsteht dieser ganz eigene Ton. Der Zuschauer wird nicht an die Hand genommen und mit dem Zaunpfahl auf jede Kleinigkeit hingewiesen, damit es auch der Letzte versteht, wie man es aus vielen großen Hollywood-Produktionen der letzten Jahre kennt. Hier dürfen Zuschauer noch selbst denken.
+
+Was sich dann langsam entfaltet, ist schrill, kurios und eigenartig. _Bugonia_ ist extrem abgedreht, aber nie völlig losgelöst von der Realität. Im Gegenteil: Immer wieder hatte ich den Gedanken im Kopf, dass das hier genauso irgendwo in einem Südstaat der USA passieren könnte. Diese Figuren, diese Absurdität, diese Eskalationen – alles überspitzt, aber erschreckend nah an unserer Wirklichkeit. Der #Film funktioniert deshalb nicht nur als schräge Komödie, sondern auch auf einer Metaebene. Immer wieder gibt es subtile, manchmal sehr direkte Seitenhiebe auf Gesellschaft, Machtstrukturen, Ego, Medien und Selbstwahrnehmung. Ohne mahnend mit dem Zeigefinger zu wedeln, eher mit einem breiten Grinsen. Der #Film richtet sich nicht an die breite Masse, um ihr Fehler unserer Welt zu erklären, sondern an jene, die die Systemkritik lesen und einordnen können.
+
+Und dann kommt dieser Moment, in dem der #Film plötzlich Fahrt aufnimmt. Aus der ruhigen, schrägen Komödie wird ein regelrechtes Feuerwerk. _Bugonia_ hält ab da gnadenlos drauf, wird schneller, lauter, absurder und genau hier hat er mich komplett verloren … im besten Sinne. Ich kam vor Lachen teilweise nicht mehr klar. Der #Film nimmt sich selbst zu keiner Sekunde zu ernst, und genau das sorgt dafür, dass selbst die wildesten Ideen nicht kippen, sondern am Ende das i-Tüpfelchen setzen.
+
+_Bugonia_ ist kein #Film für jeden. Er braucht Geduld, er braucht Offenheit und er verlangt, dass man sich auf seinen Rhythmus einlässt. Aber wenn man das tut, bekommt man etwas extrem Eigenes, Überraschendes und verdammt Unterhaltsames. Ich war nach dem Kinobesuch euphorisch, mit diesem seltenen Gefühl, gerade etwas gesehen zu haben, das neu war nichts Bekanntes, schrill, unbequem, wahnsinnig lustig und genau deshalb so gut.
+
+Verfügbar bei: https://www.justwatch.com/de/Film/bugonia
