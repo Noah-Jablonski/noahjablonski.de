@@ -9,7 +9,7 @@ Doch jetzt, ohne langes Hin und Her, hier ist meine Liste der Top 10 Filme 2025:
 
 |                        10. Like A Complete Unknown                        |
 | :-----------------------------------------------------------------------: |
-|       [![[Like a Complete Unknown.jpg]]](<Like a Complete Unknown>)       |
+|       [![[Like a Complete Unknown.jpg]]](<Like A Complete Unknown>)       |
 |                              **9. Together**                              |
 |                     [![[Together 1.jpg]]](<Together>)                     |
 |                           **8. 28 Years Later**                           |
