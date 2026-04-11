@@ -1,5 +1,5 @@
 ---
-draf: "true"
+draft: "true"
 ---
 
 
