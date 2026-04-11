@@ -1,3 +1,138 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ============================================================
+// MOBILE NAVIGATION – Verbesserungen
+// ============================================================
+
+@use "./variables.scss" as *;
+
+// --- 1. Hamburger-Button sichtbarer & größer machen ---
+@media all and ($mobile) {
+  .mobile-explorer {
+    padding: 8px 10px !important;
+    border-radius: 8px;
+    background-color: var(--lightgray) !important;
+    transition: background-color 0.2s ease;
+
+    &:hover, &:active {
+      background-color: var(--gray) !important;
+    }
+
+    // Icon etwas größer
+    .lucide-menu, svg {
+      width: 22px;
+      height: 22px;
+    }
+  }
+}
+
+// --- 2. Explorer-Overlay: sanftere Animation & besseres Padding ---
+@media all and ($mobile) {
+  .explorer .explorer-content {
+    padding: 5rem 1.5rem 2rem 1.5rem !important;
+
+    // Ordner-Links größere Tap-Targets
+    & ul li a,
+    & .folder-container > div > a,
+    & .folder-container > div > button {
+      padding: 6px 4px;
+      min-height: 40px;
+      display: flex;
+      align-items: center;
+      font-size: 1rem !important;
+    }
+
+    // Ordner-Icons etwas größer
+    & .folder-icon {
+      width: 18px;
+      height: 18px;
+    }
+  }
+
+  // "Schließen"-Hinweis: Tippen außerhalb schließt das Menü
+  // Overlay-Hintergrund leicht abdunkeln
+  .page > #quartz-body.lock-scroll::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.35);
+    z-index: 99;
+    pointer-events: none;
+  }
+}
+
+// --- 3. Header-Leiste auf Mobile aufgeräumter ---
+@media all and ($mobile) {
+  .sidebar.left {
+    // Mehr Luft zwischen den Elementen in der Top-Bar
+    gap: 0.5rem !important;
+    padding: 0.8rem 1rem !important;
+
+    // Seitenname (PageTitle) linksbündig, nicht mittig
+    #quartz-body & .page-title {
+      margin-right: auto;
+      font-size: 1.1rem;
+    }
+  }
+}
+
+// --- 4. Search & Darkmode-Button auf Mobile ---
+@media all and ($mobile) {
+  // Suchfeld: volle Breite wenn fokussiert
+  .search {
+    & > .search-button {
+      padding: 6px 10px;
+      border-radius: 8px;
+      min-height: 36px;
+    }
+  }
+
+  // Darkmode-Button Tap-Target
+  .darkmode > button,
+  .readermode > button {
+    padding: 6px;
+    min-width: 36px;
+    min-height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+  }
+}
+
+// --- 5. Tabellen responsiv (Kritiken & Top-Listen) ---
+@media all and ($mobile) {
+  article table,
+  article .table-container {
+    display: block;
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  article table tr {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--lightgray);
+  }
+
+  article table td {
+    display: block;
+    width: 100% !important;
+    min-width: unset !important;
+    padding: 0.3rem 0;
+  }
+
+  article table th {
+    display: none;
+  }
+
+  article table td:first-child img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 0 0 0.5rem 0;
+  }
+}

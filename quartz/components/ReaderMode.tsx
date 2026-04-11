@@ -6,17 +6,22 @@ import { classNames } from "../util/lang"
 
 const ReaderMode: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
-    <button class={classNames(displayClass, "readermode")}>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Würfel 5">
-  <title>Würfel 5</title>
-  <rect x="6" y="6" width="88" height="88" rx="12" ry="12" fill="#ffffff" stroke="#000000" stroke-width="6"/>
-  <circle cx="28" cy="28" r="8" fill="#000000"/>
-  <circle cx="28" cy="72" r="8" fill="#000000"/>
-  <circle cx="72" cy="28" r="8" fill="#000000"/>
-  <circle cx="72" cy="72" r="8" fill="#000000"/>
-  <circle cx="50" cy="50" r="8" fill="#000000"/>
-</svg>
+    <button class={classNames(displayClass, "readermode")} aria-label="Lesemodus">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        width="20"
+        height="20"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        role="img"
+      >
+        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 0 4 24V4.5A2.5 2.5 0 0 1 6.5 2z" />
+      </svg>
     </button>
   )
 }
